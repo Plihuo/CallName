@@ -1,0 +1,14 @@
+使用前操作
+    1、把dll文件放在%JAVA_HOME%\bin下（注意系统是32位还是64位），也可以放在C:\Windows\System32下，如果是64位应该放在C:\Windows\SysWOW64 下。建议放在jdk的bin目录下
+    2、如果是在eclipse下开发，需要重新引入jdk（Preference/Java/Installed JREs）
+    3、开发时将jacab.jar包放在项目lib下并add到liabraries中即可。
+
+
+
+
+    tandaly  2014-04-18 于南京
+
+OracleServiceORCL
+
+
+shixiaofei-PC
